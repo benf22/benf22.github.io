@@ -21,13 +21,21 @@ I am passionate about understanding images, videos, music, and speech.
 <div style="display: flex;">
 
 <div style="flex: 50%; padding: 10px;">
-  **Education**  
-  Content for the first column goes here.
+    **Column 1: Bulleted List with Bold**
+    - **Item 1**
+    - **Item 2**
+      - **Sub-item 1**
+      - **Sub-item 2**
+    - **Item 3**
 </div>
 
 <div style="flex: 50%; padding: 10px;">
-  **Work Experience**  
-  Content for the second column goes here.
+    **Column 2: Another Bulleted List with Bold**
+    - **Bold Item A**
+    - **Bold Item B**
+      - **Bold Sub-item X**
+      - **Bold Sub-item Y**
+    - **Bold Item C**
 </div>
 
 </div>
