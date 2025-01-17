@@ -30,12 +30,17 @@ I am passionate about understanding images, videos, music, and speech.
 </div>
 
 <div style="flex: 50%; padding: 10px;">
-    **Column 2: Another Bulleted List with Bold**
-    - **Bold Item A**
-    - **Bold Item B**
-      - **Bold Sub-item X**
-      - **Bold Sub-item Y**
-    - **Bold Item C**
+    <strong>Column 2: Another Bulleted List with Bold</strong><br><br>
+    <ul>
+      <li><strong>Bold Item A</strong></li>
+      <li><strong>Bold Item B</strong>
+        <ul>
+          <li><strong>Bold Sub-item X</strong></li>
+          <li><strong>Bold Sub-item Y</strong></li>
+        </ul>
+      </li>
+      <li><strong>Bold Item C</strong></li>
+    </ul>
 </div>
 
 </div>
