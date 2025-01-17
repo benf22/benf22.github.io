@@ -9,7 +9,7 @@ redirect_from:
 
 This page will be updated soon :-)
 
-I am a PhD candidate in the Computer Science department at Bar Ilan University, supervised by Prof. Gal Chechik and Dr. Idan Schwartz. My research focuses on understanding Deep Neural Networks, with a particular emphasis on Multi-Modality and Disentanglement in Generative Networks.
+I am a PhD candidate in the Computer Science department at Bar Ilan University, supervised by [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/) and [Dr. Idan Schwartz](https://idansc.github.io/). My research focuses on understanding Deep Neural Networks, with a particular emphasis on Multi-Modality and Disentanglement in Generative Networks.
 
 I hold an M.Sc. in Electrical Engineering from Tel Aviv University, where I researched Speech, specifically Prosody (intonation, rhythm, timbre, etc.). I also have a B.Sc. in Biomedical Engineering from Tel Aviv University, where my research centered on detecting human gait and movement using Sonar.
 
