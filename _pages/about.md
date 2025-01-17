@@ -23,9 +23,13 @@ I am passionate about understanding images, videos, music, and speech.
 <div style="flex: 50%; padding: 10px;">
     <strong>Education</strong><br><br>
     <ul>
-      <li><strong>Phd Computer Science in Bar Ilan Univercity,</strong> 2025-</li>
-      <span style="font-size: 12px; color: grey;">This is a smaller and grey text under Item 2</span>
-      <li><strong>Bold Item C</strong></li>
+      <li><strong>Phd Computer Science,</strong> 2025-</li>
+      <span style="font-size: 12px; color: grey;">Bar Ilan University</span>
+      <li><strong>M.Sc. Electrical Engineering,</strong> 2015-2019</li>
+      <span style="font-size: 12px; color: grey;">Tel Aviv University</span>
+        <li><strong>B.Sc. Bio Medical Engineering,</strong> 2008-2012</li>
+      <span style="font-size: 12px; color: grey;">Tel Aviv University</span>
+
     </ul>
 </div>
 
