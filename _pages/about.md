@@ -21,12 +21,12 @@ I am passionate about understanding images, videos, music, and speech.
 <div style="display: flex;">
 
 <div style="flex: 50%; padding: 10px;">
-    **Column 1: Bulleted List with Bold**
-    - **Item 1**
-    - **Item 2**
-      - **Sub-item 1**
-      - **Sub-item 2**
-    - **Item 3**
+    <strong>Education</strong><br><br>
+    <ul>
+      <li><strong>Phd Computer Science in Bar Ilan Univercity,</strong> 2025-</li>
+      <span style="font-size: 12px; color: grey;">This is a smaller and grey text under Item 2</span>
+      <li><strong>Bold Item C</strong></li>
+    </ul>
 </div>
 
 <div style="flex: 50%; padding: 10px;">
