@@ -18,3 +18,16 @@ Prior to my PhD studies, I served as the Director of AI & Algorithms at Microsof
 I am passionate about understanding images, videos, music, and speech.
 
 
+<div style="display: flex;">
+
+<div style="flex: 50%; padding: 10px;">
+  **Education**  
+  Content for the first column goes here.
+</div>
+
+<div style="flex: 50%; padding: 10px;">
+  **Work Experience**  
+  Content for the second column goes here.
+</div>
+
+</div>
