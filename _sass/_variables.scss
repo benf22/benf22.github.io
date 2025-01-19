@@ -46,11 +46,6 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 $masthead-bg-color          : #18253b;
 
-/* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
-$sidebar-link-max-width     : 250px;
-$sidebar-bg-color           : $primary-color;
-
 
 /*
    Colors
@@ -154,6 +149,10 @@ $susy: (
   // ),
 );
 
+/* Sidebar properties */
+$sidebar-screen-min-width   : 1024px;
+$sidebar-link-max-width     : 250px;
+$sidebar-bg-color           : $primary-color;
 
 /*
    Other
