@@ -18,30 +18,31 @@ I am passionate about understanding images, videos, music, and speech.
 
 <div style="display: flex;">
 
-<div style="flex: 50%; padding: 10px;">
+<div style="flex: 45%; padding: 10px;">
   <strong>Education</strong><br><br>
-    <ul>
-      <li><strong>Ph.D Computer Science</strong>, 2025-</li>
-      <span style="font-size: 12px; color: grey;">Bar Ilan University</span>
-      <li><strong>M.Sc Electrical Engineering</strong>, 2015-2019</li>
-      <span style="font-size: 12px; color: grey;">Tel Aviv University</span>
-      <li><strong>B.Sc Bio Medical Engineering</strong>, 2008-2012</li>
-      <span style="font-size: 12px; color: grey;">Tel Aviv University</span>
+    <ul style = "font-size: clamp(8px, 1.9vw, 12px);">
+      <li>
+      <strong>Ph.D Computer Science</strong></li>
+      <span style="color: grey; vertical-align: top">Bar Ilan University | 2025 -</span>
+      <li style=""><strong>M.Sc Electrical Engineering</strong></li>
+      <span style=" color: grey; vertical-align: top;">Tel Aviv University | 2015-2019 </span>
+      <li style=><strong>B.Sc Bio Medical Engineering</strong></li>
+      <span style="color: grey; vertical-align: top;">Tel Aviv University | 2008-2012</span>
     </ul>
 </div>
 
-<div style="flex: 50%; padding: 10px;">
+<div style="flex: 55%; padding: 10px;">
     <strong>Work Experience</strong><br><br>
-    <ul>
-      <li><strong>Director of AI & Algorithms</strong>, 2021 - 2024</li>
-      <span style="font-size: 12px; color: grey;">Surface & WSSI groups @ Microsoft</span>
-      <li><strong>Senior Data Scientist</strong>, 2019 - 2021
+    <ul style="font-size: clamp(8px, 1.9vw, 12px)">
+      <li><strong>Director of AI & Algorithms</strong></li>
+      <span style="color: grey; vertical-align: top;">Surface & WSSI groups @ Microsoft | 2021 - 2024</span>
+      <li><strong>Senior Data Scientist</strong> 
       </li>
-        <span style="font-size: 12px; color: grey;">Video Indexer group @ Microsoft</span>
-      <li><strong>Algorithms Team Leader</strong>, 2018 - 2019</li>
-      <span style="font-size: 12px; color: grey;"> @ Mobileye</span>
-      <li><strong>Algorithms Developer</strong>, 2014 - 2018</li>
-      <span style="font-size: 12px; color: grey;">  @ Mobileye</span>
+        <span style="color: grey; vertical-align: top;">Video Indexer group @ Microsoft | 2019 - 2021 </span>
+      <li><strong>Algorithms Team Leader</strong></li>
+      <span style="color: grey; vertical-align: top;"> @ Mobileye | 2018 - 2019</span>
+      <li><strong>Algorithms Developer</strong></li>
+      <span style="color: grey; vertical-align: top;">  @ Mobileye | 2014 - 2018</span>
     </ul>
 </div>
 
