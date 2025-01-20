@@ -20,20 +20,20 @@ I am passionate about understanding images, videos, music, and speech.
 
 <div style="flex: 45%; padding: 10px;">
   <strong>Education</strong><br><br>
-    <ul style = "font-size: clamp(8px, 1.9vw, 12px);">
+    <ul style = "font-size: clamp(8px, 1.9vw, 14px);">
       <li>
       <strong>Ph.D Computer Science</strong></li>
       <span style="color: grey; vertical-align: top">Bar Ilan University | 2025 -</span>
-      <li style=""><strong>M.Sc Electrical Engineering</strong></li>
+      <li><strong>M.Sc Electrical Engineering</strong></li>
       <span style=" color: grey; vertical-align: top;">Tel Aviv University | 2015-2019 </span>
-      <li style=><strong>B.Sc Bio Medical Engineering</strong></li>
+      <li><strong>B.Sc Bio Medical Engineering</strong></li>
       <span style="color: grey; vertical-align: top;">Tel Aviv University | 2008-2012</span>
     </ul>
 </div>
 
 <div style="flex: 55%; padding: 10px;">
     <strong>Work Experience</strong><br><br>
-    <ul style="font-size: clamp(8px, 1.9vw, 12px)">
+    <ul style="font-size: clamp(8px, 1.9vw, 14px)">
       <li><strong>Director of AI & Algorithms</strong></li>
       <span style="color: grey; vertical-align: top;">Surface & WSSI groups @ Microsoft | 2021 - 2024</span>
       <li><strong>Senior Data Scientist</strong> 
