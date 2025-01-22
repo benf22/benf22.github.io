@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Noncontact wideband sonar for human activity detection and classification‏"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 'https://d1wqtxts1xzle7.cloudfront.net/46362856/Non-contact_Wide-Wideband_Sonar_for_Human_Activity_Classification-libre.pdf?1465496646=&response-content-disposition=inline%3B+filename%3DNon_contact_Wide_Wideband_Sonar_for_Huma.pdf&Expires=1737553723&Signature=FpE77Zcc~-5jWnLnUq8fAEFmcFIyJygR4QluqsyOTivB8rLnkqIPw~02GBAGkH231xS9Wfxal24dRv3RO1tWO9v6lF6ZO-B20zGsssbEKeQklhSSi6QkO2vCCff5t2oS0rcJgmLxQhFx3P-LbkhZFXIZ1DF5ajnDz9NUQG9UHIdHz5q6w8Dyib8Bs4GRC5CZccLEcJo1IOVLGm1xls2FAjlV4Bj7-HUfHhwBmxLiWA-c9gNn2YucqxKoyum3G3425MvTjD5CQ3Le5vDdg-O0mr9eZj9eJK63~47-L40ErRf4ewRYhDottWIDsR-PtwUogY5enOQincebhwMl~VtCDg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+excerpt: ''
+date: 2014
+venue: 'IEEE Sensors'
+slidesurl: ''
+paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/46362856/Non-contact_Wide-Wideband_Sonar_for_Human_Activity_Classification-libre.pdf?1465496646=&response-content-disposition=inline%3B+filename%3DNon_contact_Wide_Wideband_Sonar_for_Huma.pdf&Expires=1737553723&Signature=FpE77Zcc~-5jWnLnUq8fAEFmcFIyJygR4QluqsyOTivB8rLnkqIPw~02GBAGkH231xS9Wfxal24dRv3RO1tWO9v6lF6ZO-B20zGsssbEKeQklhSSi6QkO2vCCff5t2oS0rcJgmLxQhFx3P-LbkhZFXIZ1DF5ajnDz9NUQG9UHIdHz5q6w8Dyib8Bs4GRC5CZccLEcJo1IOVLGm1xls2FAjlV4Bj7-HUfHhwBmxLiWA-c9gNn2YucqxKoyum3G3425MvTjD5CQ3Le5vDdg-O0mr9eZj9eJK63~47-L40ErRf4ewRYhDottWIDsR-PtwUogY5enOQincebhwMl~VtCDg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+citation: "Blumrosen, Gaddi, Ben Fishman, and Yossi Yovel. &quotNoncontact wideband sonar for human activity detection and classification.&quot <i>IEEE Sensors Journal</i> 14.11 (2014): 4043-4054."‏
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
